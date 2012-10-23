@@ -1,0 +1,2 @@
+# replace /path/to/tj_energy_notify.py with the real path
+30 10,16 * * * python /path/to/tj_energy_notify.py
